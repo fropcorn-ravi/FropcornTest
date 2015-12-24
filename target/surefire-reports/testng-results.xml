@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestConfig" duration-ms="74585" started-at="2015-12-23T10:11:49Z" finished-at="2015-12-23T10:13:03Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="74585" started-at="2015-12-23T10:11:49Z" finished-at="2015-12-23T10:13:03Z">
+      <class name="TestSuite.TestConfig">
+        <test-method status="PASS" signature="startAppium()[pri:0, instance:TestSuite.TestConfig@c7a4e4]" name="startAppium" is-config="true" duration-ms="45003" started-at="2015-12-23T15:41:49Z" finished-at="2015-12-23T15:42:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startAppium -->
+        <test-method status="PASS" signature="Registration()[pri:0, instance:TestSuite.TestConfig@c7a4e4]" name="Registration" duration-ms="26881" started-at="2015-12-23T15:42:34Z" finished-at="2015-12-23T15:43:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registration -->
+        <test-method status="PASS" signature="tear()[pri:0, instance:TestSuite.TestConfig@c7a4e4]" name="tear" is-config="true" duration-ms="453" started-at="2015-12-23T15:43:03Z" finished-at="2015-12-23T15:43:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestSuite.TestConfig@c7a4e4]" name="tearDown" is-config="true" duration-ms="1092" started-at="2015-12-23T15:43:03Z" finished-at="2015-12-23T15:43:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestSuite.TestConfig -->
+    </test> <!-- Test -->
+  </suite> <!-- TestConfig -->
+</testng-results>

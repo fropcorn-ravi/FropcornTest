@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestConfig" duration-ms="74069" started-at="2015-12-24T06:07:34Z" finished-at="2015-12-24T06:08:48Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="74069" started-at="2015-12-24T06:07:34Z" finished-at="2015-12-24T06:08:48Z">
+      <class name="TestSuite.TestConfig">
+        <test-method status="PASS" signature="startAppium()[pri:0, instance:TestSuite.TestConfig@180d80f]" name="startAppium" is-config="true" duration-ms="43770" started-at="2015-12-24T11:37:34Z" finished-at="2015-12-24T11:38:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startAppium -->
+        <test-method status="PASS" signature="Registration()[pri:0, instance:TestSuite.TestConfig@180d80f]" name="Registration" duration-ms="26333" started-at="2015-12-24T11:38:18Z" finished-at="2015-12-24T11:38:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registration -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestSuite.TestConfig@180d80f]" name="tearDown" is-config="true" duration-ms="1234" started-at="2015-12-24T11:38:46Z" finished-at="2015-12-24T11:38:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tear()[pri:0, instance:TestSuite.TestConfig@180d80f]" name="tear" is-config="true" duration-ms="468" started-at="2015-12-24T11:38:47Z" finished-at="2015-12-24T11:38:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestSuite.TestConfig@180d80f]" name="tearDown" is-config="true" duration-ms="936" started-at="2015-12-24T11:38:48Z" finished-at="2015-12-24T11:38:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestSuite.TestConfig -->
+    </test> <!-- Test -->
+  </suite> <!-- TestConfig -->
+</testng-results>
